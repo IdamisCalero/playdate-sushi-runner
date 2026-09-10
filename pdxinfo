@@ -1,0 +1,5 @@
+name=Sushi Runner
+author=IdamisCalero
+description=Run on a conveyor belt as a piece of sushi, avoid restaurant items, and rack up a high score!
+bundleID=com.idamiscalero.sushi-runner
+version=1.0
